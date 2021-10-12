@@ -25,3 +25,5 @@
 * Best Practice: Keep this branch upto date with the Dev branch. 
 * Any merge should be done only to the Dev branch and every merge should be performed after the pull request is reviewed by other members. 
 
+
+* This is a sample line committed by Researcher 3
